@@ -1,5 +1,5 @@
 #write a python script to enter any number to check it is prime or not
-
+#22bca26   19-06-2023
 num =int(input('enter number: '))
 # If given number is greater than 1
 if num > 1:
