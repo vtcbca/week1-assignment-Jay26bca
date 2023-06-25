@@ -1,3 +1,5 @@
+#Write a python script to enter any number, if it is integer number, then check its palindrom or not. Print appropriate message if it is not palindrom.
+#22BCA26 
 n=int(input("Enter number:"))
 t=n
 r=0
